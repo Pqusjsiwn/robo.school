@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.menu{
+    background-color: blue;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.textMenu{
+    padding: 20px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #141024;
+    
+}
+.number{
+    font-family: Jost;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: right;
+    width: 255px;
+height: 48px;
+top: 30px;
+left: 1565px;
+gap: 0px;
+opacity: 0px;
+}
+.zagolovok{
+    font-family: Jost;
+    font-size: 70px;
+    font-weight: 600;
+    line-height: 112px;
+    text-align: left;
+    color: white;
+    text-align: left;
+    position: absolute;
+    top: 344px;
+    left: 380px;    
+}
+.moiText{
+    font-family: Jost;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    color: white;
+    width: 478px;
+    position: absolute;   
+    top: 476px;
+    left: 380px;
+}
+.qwerty{
+    width: 783px;
+    height: 917.48px;
+    position: absolute;
+    top: 162.52px;
+    left: 924px;
+    gap: 0px;
+    opacity: 0px;    
+
+}
+
+.asdfgh{
+    width: Hug (260px)px;
+height: Hug (79px)px;
+position: absolute;
+top: 590px;
+left: 380px;
+padding: 25px 54px 25px 54px;
+gap: 10px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+background: #D52027;
+}
+.nameA{
+    background: #F9F9F9;
+height: 300px;
+}
+.myNameA{
+    position: relative;
+    top: 100px;
+margin-top: 700px;
+margin-left: 380px;
+font-size: 50px;
+}
+.container{
+    position: relative;
+    top: 100px;
+    display: flex;
+}
+.block{
+    background-color: #bababa;
+    margin: 20px;
+    border-radius: 10px;
+}
+.pod{
+    margin-left: 100px;
+}
+.textPod{
+    margin-left: 10px
+}
+.fot1{
+    font-family: Jost;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;   
+    color: white; 
+    margin-right: 800px;
+    margin-left: 100px;   
+}
+.fot2{
+    font-family: Jost;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: right;
+    color: white;
+    
+}
